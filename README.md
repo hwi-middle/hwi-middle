@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**hwi-middle/hwi-middle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
+### 🤗누추한 곳에 와주셨군요!
+반갑습니다! **버그 없는 하루**가 되셨으면 좋겠어요.<br>
+앗, 그런데 막상 버그 없으면 불안한데..
 
-Here are some ideas to get you started:
+### 🧐프로필
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084)](https://solved.ac/5755084)
+ - 주휘중 / Ju Hwi-Jung
+ - 청강문화산업대학교 게임스쿨 20학번
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✏관심분야/현재 공부중
+ - C/C++
+ - C#
+ - 게임개발(Unity)
+ - PS
+ - Web 전반
+ - etc.
+ 
+ ### 🥳친구허쉴?
+ - Instagram: [@hwi_middle](https://www.instagram.com/hwi_middle/)
+ - Facebook: [View Profile](https://www.facebook.com/profile.php?id=100005159441501)
+ - Twitter: [@CK20_HWI](https://twitter.com/CK20_HWI)
+ - BOJ: [5755084](https://www.acmicpc.net/user/5755084)
+ - solved.ac: [5755084](https://solved.ac/profile/5755084)
+ - Naver Blog: [Here](https://blog.naver.com/5755084)
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&animation=fadeIn)
