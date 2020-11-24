@@ -13,6 +13,7 @@
  - C/C++
  - C#
  - 게임개발(Unity)
+ - Flutter
  - PS
  - Web 전반
  - etc.
