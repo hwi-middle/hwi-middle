@@ -19,7 +19,7 @@
  
  ### 🥳친구허쉴?
  - Instagram: [@hwi_middle](https://www.instagram.com/hwi_middle/)
- - Facebook: [View Profile](https://www.facebook.com/profile.php?id=100005159441501)
+ - Facebook: [hwi.middle](facebook.com/hwi.middle)
  - Twitter: [@CK20_HWI](https://twitter.com/CK20_HWI)
  - BOJ: [5755084](https://www.acmicpc.net/user/5755084)
  - solved.ac: [5755084](https://solved.ac/profile/5755084)
