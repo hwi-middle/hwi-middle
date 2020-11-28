@@ -5,7 +5,7 @@
 앗, 그런데 막상 버그 없으면 불안한데..
 
 ### 🧐프로필
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084#1)](https://solved.ac/5755084)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084#3)](https://solved.ac/5755084)
  - 주휘중 / Ju Hwi-Jung
  - 청강문화산업대학교 게임스쿨(2020~)
 
