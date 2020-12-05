@@ -27,6 +27,6 @@ Glad to see y'all. Hope you're having **bug-free** day!<br>
  <br><br>*(K)* stands for Korean website; you might not understand it.
  
  ## Did you know...?
- - In my name, "jung" means **"middle(中)"** in [Hanja](https://en.wikipedia.org/wiki/Hanja)—Slightly different from Chinese characters. So my username is hwi-**middle**.
+ - In my name, "jung" means **"middle(中)"** in [Hanja](https://en.wikipedia.org/wiki/Hanja). So my username is hwi-**middle**.
  - I LOVE PEPPERONI PIZZA. Litearlly, LOVE it.
  
