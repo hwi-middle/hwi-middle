@@ -1,30 +1,32 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
-### 🤗누추한 곳에 와주셨군요!
-반갑습니다! **버그 없는 하루**가 되셨으면 좋겠어요.<br>
-앗, 그런데 막상 버그 없으면 불안한데..
+# Ju Hwijung - @hwi-middle
+## 🤗Such a Humble Place Here, But Welcome!
+Glad to see y'all. Hope you're having **bug-free** day!<br>
+...Well, I just realized this may not be a blessing. I'll eat my words.
+## 🧐Profile
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084#5)](https://solved.ac/5755084)
+ - 주휘중 / Ju Hwijung
+ - Majoring in *Game Development* at **ChungKang College of Cultural Industries**
 
-### 🧐프로필
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084#4)](https://solved.ac/5755084)
- - 주휘중 / Ju Hwi-Jung
- - 청강문화산업대학교 게임스쿨(2020~)
-
-### ✏관심분야/현재 공부중
+## ✏Currently Learning
  - C/C++
  - C#
  - Unity
  - Reinforcement Learning
  - Flutter
- - PS
- - Web 전반
- - etc.
+ - Problem Solving
+ - Web Development
  
- ### 🥳친구허쉴?
+ ## 🥳Would you be my friend?
  - Instagram: [@hwi_middle](https://www.instagram.com/hwi_middle/)
  - Facebook: [View Profile](https://facebook.com/hwi.middle)
  - Twitter: [@CK20_HWI](https://twitter.com/CK20_HWI)
- - BOJ: [5755084](https://www.acmicpc.net/user/5755084)
- - solved.ac: [5755084](https://solved.ac/profile/5755084)
- - Naver Blog: [Here](https://blog.naver.com/5755084)
+ - *(K)* BOJ: [5755084](https://www.acmicpc.net/user/5755084)
+ - *(K)* solved.ac: [5755084](https://solved.ac/profile/5755084)
+ - *(K)* Blog: [Here](https://blog.naver.com/5755084)
+ <br><br>*(K)* stands for Korean website; you might not understand it.
  
- ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&animation=fadeIn)
+ ## Did you know...?
+ - In my name, "jung" means **"middle(中)"** in [Hanja](https://en.wikipedia.org/wiki/Hanja)(Slightly different from Chinese characters). So my username is hwi-**middle**.
+ - I LOVE PEPPERONI PIZZA. Litearlly, LOVE it.
+ 
