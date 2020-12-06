@@ -16,11 +16,11 @@ Such a humble place here, but welcome! I'm Hwijung—majoring in *Game Developme
  - Instagram: [@hwi_middle](https://www.instagram.com/hwi_middle/)
  - Facebook: [View Profile](https://facebook.com/hwi.middle)
  - Twitter: [@CK20_HWI](https://twitter.com/CK20_HWI)
- - *(K)* Blog: [Here](https://blog.naver.com/5755084)
  ***
  <br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084#5)](https://solved.ac/5755084)<br>
  - *(K)* BOJ: [5755084](https://www.acmicpc.net/user/5755084)
  - *(K)* solved.ac: [5755084](https://solved.ac/profile/5755084)
+  - *(K)* Blog: [Here](https://blog.naver.com/5755084)
  <br><br>*(K)* stands for Korean website; you might not understand it.
  
  ## 🤔Did you know...?
