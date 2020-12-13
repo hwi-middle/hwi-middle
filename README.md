@@ -2,7 +2,7 @@
 👋 Hi! Such a humble place here, but welcome to my profile. Hope you're having **bug-free** day! ...Well, I just realized this may not be a blessing. I'll eat my words.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hwi-middle&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/hwi-middle)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-middle&layout=compact&hide_border=true)](https://github.com/hwi-middle)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-middle&layout=compact&hide_border=true#1)](https://github.com/hwi-middle)
 
 [![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hwi-middle)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwi_middle/)
