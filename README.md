@@ -22,5 +22,5 @@ I'm Hwijung—majoring in *Game Development* at **[ChungKang College of Cultural
  - Unity
  - Reinforcement Learning
  - Flutter
- - Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=5755084#1)](https://solved.ac/5755084)
+ - Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=5755084#2)](https://solved.ac/5755084)
  - Web Development
