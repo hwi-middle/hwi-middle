@@ -1,5 +1,5 @@
 # Ju Hwijung - @hwi-middle
-👋 Hi! Such a humble place here, but welcome to my profile. Hope you're having **bug-free** day! ...Well, I just realized this may not be a blessing. I'll eat my words.
+👋 Hi! Welcome to my GitHub profile!
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hwi-middle&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/hwi-middle)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-middle&layout=compact&hide_border=true#1)](https://github.com/hwi-middle)
@@ -17,10 +17,9 @@
 I'm Hwijung—majoring in *Game Development* at **[ChungKang College of Cultural Industries](https://www.ck.ac.kr/en/school-department/game/school)**. In my name, "jung(中)" means **"middle"** in [Hanja](https://en.wikipedia.org/wiki/Hanja). That's why my username is @hwi-**middle**.
 
 ## Currently Learning
- - C/C++
- - C#
- - Unity
- - Reinforcement Learning
- - Flutter
  - Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=5755084#2)](https://solved.ac/5755084)
+ - C, C++, C#, Python
+ - Unity, Unreal Engine
+ - Machine Learning
+ - Flutter
  - Web Development
