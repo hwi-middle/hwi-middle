@@ -23,5 +23,3 @@ I'm Hwijung—majoring in *Game Development* at **[ChungKang College of Cultural
  - C, C++, C#, Python
  - Unity, Unreal Engine
  - Machine Learning
- - Flutter
- - Web Development
