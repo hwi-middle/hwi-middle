@@ -2,8 +2,8 @@
 👋 Hi! Welcome to my GitHub profile!
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hwi-middle&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/hwi-middle)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-middle&layout=compact&hide_border=true#2)](https://github.com/hwi-middle)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-middle&layout=compact&hide_border=true#2)](https://github.com/hwi-middle)<br>
+[![Solved Banner](http://mazassumnida.wtf/api/v2/generate_badge?boj=5755084)](https://solved.ac/5755084)<br>
 [![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hwi-middle)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwi_middle/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hwi.middle/)
