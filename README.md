@@ -18,4 +18,6 @@ I'm Hwijung—majoring in *Game Development* at **[ChungKang College of Cultural
 ## Currently Learning
  - C, C++, C#, Python
  - Unity, Unreal Engine
+ - DirectX
+ - Computer Graphics
  - Machine Learning
